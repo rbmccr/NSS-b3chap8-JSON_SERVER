@@ -1,0 +1,66 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "pizza",
+      "type": "pizza",
+      "ethnicity": "italian",
+      "side_dishes": [
+        "brownies",
+        "soda"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rotisserie chicken",
+      "type": "a lot of protien",
+      "ethnicity": "Mexican",
+      "side_dishes": [
+        "gravy",
+        "broccoli"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ice cream",
+      "type": "dessert",
+      "ethnicity": "Ben & Jerry's",
+      "side_dishes": [
+        "water",
+        "chocolate syrup"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "sirloin steak",
+      "type": "protien",
+      "ethnicity": "American",
+      "side_dishes": [
+        "seasoning",
+        "asparagus",
+        "baked potato"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "vegetable soup",
+      "type": "soup",
+      "ethnicity": "italian",
+      "side_dishes": [
+        "crackers",
+        "cheese"
+      ]
+    },
+    {
+      "name": "Doritos",
+      "type": "junk",
+      "ethnicity": "American"
+    },
+    {
+      "name": "starburst",
+      "type": "candy",
+      "ethnicity": "American",
+      "id": 8
+    }
+  ]
+}
